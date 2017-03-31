@@ -1,0 +1,51 @@
+{ 
+    "users" :
+        [
+            {
+                "name" : "Reidun Marie Tennebø",
+                "mail" : "reidun.m.t@hotmail.com",
+                "todos" : 
+                    [
+                        {
+                            "title" : "Test Case",
+                            "description" : "Do your best!",
+                            "type" : "Job"
+                        },
+                        {
+                            "title" : "Fix bugs in Wide Assessment",
+                            "description" : "First get an overview in pivotal tracker, and solv the problem.",
+                            "type" : "Job"
+                        },
+                        {
+                            "title" : "Clean",
+                            "description" : "Do the dishes when you get home.",
+                            "type" : "Home"
+                        }
+                        
+                    ]
+            },
+            {
+                "name" : "Sølvi Fremstad",
+                "mail" : "solvi@acos.no",
+                "todos" :
+                    [
+                        {
+                            "title" : "First interview",
+                            "description" : "Get a good impression!",
+                            "type" : "job"
+                        }
+                    ]
+            },
+            {
+                "name" : "Stine Andreassen",
+                "mail" : "stine@wa.works",
+                "todos" : []
+            },
+            {
+                "name" : "Sindre Haugland Bøyum",
+                "mail" : "sindre@acos.no",
+                "todos" : []
+            }
+            
+        ]
+}
